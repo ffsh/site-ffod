@@ -10,7 +10,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-contact-info \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
-	gluon-ebtables-limit-arp \
 	gluon-web-admin \
 	gluon-web-network \
 	gluon-web-autoupdater \
